@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SHADO\\Downloads\\Generation\\Calculadora\\Calculadora\\Calculadora\\Calculadora.csproj",
+      "projectUniqueName": "C:\\Users\\SHADO\\Downloads\\Generation\\Projeto C#\\Lista 5\\Calculadora\\Calculadora\\Calculadora\\Calculadora.csproj",
       "projectName": "Calculadora",
-      "projectPath": "C:\\Users\\SHADO\\Downloads\\Generation\\Calculadora\\Calculadora\\Calculadora\\Calculadora.csproj",
+      "projectPath": "C:\\Users\\SHADO\\Downloads\\Generation\\Projeto C#\\Lista 5\\Calculadora\\Calculadora\\Calculadora\\Calculadora.csproj",
       "packagesPath": "C:\\Users\\SHADO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SHADO\\Downloads\\Generation\\Calculadora\\Calculadora\\Calculadora\\obj\\",
+      "outputPath": "C:\\Users\\SHADO\\Downloads\\Generation\\Projeto C#\\Lista 5\\Calculadora\\Calculadora\\Calculadora\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
